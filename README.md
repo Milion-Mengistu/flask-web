@@ -91,9 +91,9 @@ online-notebook/
 
 Here’s a preview of the app:
 
-![Example Screenshot](assets/my web screenshot.jpg "web Screenshot")
+![Example Screenshot](flask-web/my-web-screenshot.jpg "web Screenshot")
 
-> Place your images in a folder named `assets` within your project.
+
 
 ## Future Enhancements
 
