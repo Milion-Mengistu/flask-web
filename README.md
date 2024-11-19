@@ -91,7 +91,7 @@ online-notebook/
 
 Here’s a preview of the app:
 
-![Example Screenshot](flask-web/my-web-screenshot.jpg "web Screenshot")
+![Example Screenshot](my-web-screenshot.jpg "web Screenshot")
 
 
 
