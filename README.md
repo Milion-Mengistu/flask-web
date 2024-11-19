@@ -91,7 +91,7 @@ online-notebook/
 
 Here’s a preview of the app:
 
-![Example Screenshot](example-screenshot.png "Example Screenshot")
+![Example Screenshot](my web screenshot.jpg "web Screenshot")
 
 > Place your images in a folder named `assets` within your project.
 
@@ -106,6 +106,4 @@ Here’s a preview of the app:
 
 Feel free to fork this repository and submit pull requests. Contributions are always welcome.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
